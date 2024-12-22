@@ -3,7 +3,7 @@ const pinDisplay = document.getElementById('pin-display');
         const loginBox = document.getElementById('login-box');
         const buttons = document.querySelectorAll('.buttons button');
 
-        const correctPin = '112524';
+        const correctPin = '123456';
         let enteredPin = '';
 
         function resetDisplay() {
